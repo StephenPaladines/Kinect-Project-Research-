@@ -1,0 +1,1 @@
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect2Sample\Kinect2Sample\Kinect2Sample.csproj;x64

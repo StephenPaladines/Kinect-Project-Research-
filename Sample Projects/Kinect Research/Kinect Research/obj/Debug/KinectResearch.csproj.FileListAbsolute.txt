@@ -1,0 +1,23 @@
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\HoverButton.baml
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\HoverButton.g.cs
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\App.g.cs
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect Research_MarkupCompile.cache
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect Research_MarkupCompile.lref
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Kinect Research.exe.config
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Kinect Research.exe
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Kinect Research.pdb
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect Research.g.resources
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect_Research.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\KinectResearch.csproj.GenerateResource.cache
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\KinectResearch.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\KinectResearch.csproj.CopyComplete
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect Research.exe
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\Kinect Research.pdb
+C:\Users\Stephen\Desktop\Kinect Project (Research)\Sample Projects\Kinect Research\Kinect Research\obj\Debug\KinectResearch.csprojAssemblyReference.cache

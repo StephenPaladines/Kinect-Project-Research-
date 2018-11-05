@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectResearch", "Kinect Research\KinectResearch.csproj", "{DDC19744-CB79-457A-AA66-8C5A6FC248CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{03FE27A9-68C5-49AA-A0E3-B61501F8BF56}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\AppData\Local\Temp\7zE886E2F44\BlackButton-Active.png = ..\..\..\..\AppData\Local\Temp\7zE886E2F44\BlackButton-Active.png
+		..\..\..\..\AppData\Local\Temp\7zE886E2F44\BlackButton-Hover.png = ..\..\..\..\AppData\Local\Temp\7zE886E2F44\BlackButton-Hover.png
+		..\..\..\..\AppData\Local\Temp\7zE886BB684\RedButton-Active.png = ..\..\..\..\AppData\Local\Temp\7zE886BB684\RedButton-Active.png
+		..\..\..\..\AppData\Local\Temp\7zE886BB684\RedButton-Hover.png = ..\..\..\..\AppData\Local\Temp\7zE886BB684\RedButton-Hover.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controls", "Controls", "{D9487E09-9CF7-4A9E-8E57-5A27EA794F06}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\c4fkinect\sourceCode\Coding4Fun.Kinect.Wpf\Controls\HoverButton.xaml = ..\..\..\..\Downloads\c4fkinect\sourceCode\Coding4Fun.Kinect.Wpf\Controls\HoverButton.xaml
+		..\..\..\..\Downloads\c4fkinect\sourceCode\Coding4Fun.Kinect.Wpf\Controls\HoverButton.xaml.cs = ..\..\..\..\Downloads\c4fkinect\sourceCode\Coding4Fun.Kinect.Wpf\Controls\HoverButton.xaml.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC19744-CB79-457A-AA66-8C5A6FC248CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC19744-CB79-457A-AA66-8C5A6FC248CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC19744-CB79-457A-AA66-8C5A6FC248CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC19744-CB79-457A-AA66-8C5A6FC248CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB4729F-CF49-4EFC-A47F-8F0FC154B35A}
+	EndGlobalSection
+EndGlobal

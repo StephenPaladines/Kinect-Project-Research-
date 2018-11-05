@@ -1,0 +1,21 @@
+﻿<Window x:Class="KinectResearch.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls"
+        Title="ColorFrameSource Sample"
+ Height="880" Width="1400"
+ Closing="MainWindow_Closing">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+        <Ellipse Fill="Red" Height="20" Width="20" Name="leftHand" Stroke="White" />
+        <!--<Controls:HoverButton x:Name="kinectButton" ImageSize="100" ImageSource="/Resources/RedButton-Hover.png" ActiveImageSource ="/Resources/RedButton-Active.png" IsTriggeredOnHover="True" Canvas.Left="631" Canvas.Top="34" />-->
+        <Canvas Name="canvas" Width="1024" Height="576" />
+        <!--<Button x:Name="button1" Content="Button1" Height="152" Canvas.Left="128" Canvas.Top="162" Width="320" Background="#FF64C02F" FontSize="53.333" Click="button1_Click" BorderThickness="4" Foreground="White" />-->
+    </Grid>
+</Window>
